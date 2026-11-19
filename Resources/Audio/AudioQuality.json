@@ -1,0 +1,86 @@
+[
+  {
+    "file": "menu_01.wav",
+    "seconds": 53.3333,
+    "rms": 0.105,
+    "peak": 0.610618,
+    "seamDelta": 0.006861
+  },
+  {
+    "file": "menu_02.wav",
+    "seconds": 53.3333,
+    "rms": 0.105,
+    "peak": 0.60873,
+    "seamDelta": 0.003842
+  },
+  {
+    "file": "round1_01.wav",
+    "seconds": 35.5556,
+    "rms": 0.105,
+    "peak": 0.566068,
+    "seamDelta": 0.005152
+  },
+  {
+    "file": "round1_02.wav",
+    "seconds": 35.5556,
+    "rms": 0.105,
+    "peak": 0.566796,
+    "seamDelta": 0.002649
+  },
+  {
+    "file": "round2_01.wav",
+    "seconds": 38.4,
+    "rms": 0.105,
+    "peak": 0.667778,
+    "seamDelta": 0.003474
+  },
+  {
+    "file": "round2_02.wav",
+    "seconds": 38.4,
+    "rms": 0.105,
+    "peak": 0.658179,
+    "seamDelta": 0.007962
+  },
+  {
+    "file": "round3_01.wav",
+    "seconds": 33.1034,
+    "rms": 0.105,
+    "peak": 0.553282,
+    "seamDelta": 0.004218
+  },
+  {
+    "file": "round3_02.wav",
+    "seconds": 33.1034,
+    "rms": 0.105,
+    "peak": 0.541954,
+    "seamDelta": 0.004103
+  },
+  {
+    "file": "round4_01.wav",
+    "seconds": 41.7391,
+    "rms": 0.105,
+    "peak": 0.641313,
+    "seamDelta": 0.007549
+  },
+  {
+    "file": "round4_02.wav",
+    "seconds": 41.7391,
+    "rms": 0.105,
+    "peak": 0.62878,
+    "seamDelta": 0.004296
+  },
+  {
+    "file": "nuclear_01.wav",
+    "seconds": 64.0,
+    "rms": 0.105,
+    "peak": 0.679162,
+    "seamDelta": 0.007683
+  },
+  {
+    "file": "nuclear_02.wav",
+    "seconds": 64.0,
+    "rms": 0.105,
+    "peak": 0.665815,
+    "seamDelta": 0.003807
+  }
+]

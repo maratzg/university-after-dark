@@ -1,0 +1,86 @@
+[
+  {
+    "id": "menu_01",
+    "category": "afterHours",
+    "title": "Velvet After Midnight",
+    "file": "menu_01.wav",
+    "bpm": 72
+  },
+  {
+    "id": "menu_02",
+    "category": "afterHours",
+    "title": "Empty Corridors",
+    "file": "menu_02.wav",
+    "bpm": 72
+  },
+  {
+    "id": "round1_01",
+    "category": "temptation",
+    "title": "Velvet Temptation",
+    "file": "round1_01.wav",
+    "bpm": 108
+  },
+  {
+    "id": "round1_02",
+    "category": "temptation",
+    "title": "Low Light",
+    "file": "round1_02.wav",
+    "bpm": 108
+  },
+  {
+    "id": "round2_01",
+    "category": "secrets",
+    "title": "Things Left Unsaid",
+    "file": "round2_01.wav",
+    "bpm": 100
+  },
+  {
+    "id": "round2_02",
+    "category": "secrets",
+    "title": "Behind Closed Doors",
+    "file": "round2_02.wav",
+    "bpm": 100
+  },
+  {
+    "id": "round3_01",
+    "category": "confessions",
+    "title": "Glass Confessions",
+    "file": "round3_01.wav",
+    "bpm": 116
+  },
+  {
+    "id": "round3_02",
+    "category": "confessions",
+    "title": "A Quiet Admission",
+    "file": "round3_02.wav",
+    "bpm": 116
+  },
+  {
+    "id": "round4_01",
+    "category": "absoluteChaos",
+    "title": "Beautiful Consequences",
+    "file": "round4_01.wav",
+    "bpm": 92
+  },
+  {
+    "id": "round4_02",
+    "category": "absoluteChaos",
+    "title": "Last Good Decision",
+    "file": "round4_02.wav",
+    "bpm": 92
+  },
+  {
+    "id": "nuclear_01",
+    "category": "pointOfNoReturn",
+    "title": "Point of No Return",
+    "file": "nuclear_01.wav",
+    "bpm": 60
+  },
+  {
+    "id": "nuclear_02",
+    "category": "pointOfNoReturn",
+    "title": "The Room Holds Its Breath",
+    "file": "nuclear_02.wav",
+    "bpm": 60
+  }
+]

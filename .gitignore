@@ -1,0 +1,31 @@
+# Local builds, compiler caches and generated distributions
+build/
+DerivedData/
+.build/
+.swiftpm/
+*.app/
+*.dSYM/
+*.xcarchive/
+*.xcresult/
+*.zip
+*.log
+*.profraw
+
+# Machine-specific Finder and Xcode state
+.DS_Store
+.AppleDouble
+**/xcuserdata/
+*.xcuserstate
+*.xccheckout
+*.xcscmblueprint
+
+# Local configuration and exports; game resources remain tracked
+.env
+.env.*
+!.env.example
+*.p12
+*.p8
+*.mobileprovision
+local-data/
+session-export*.json
+custom-questions*.json
